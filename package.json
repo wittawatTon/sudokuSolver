@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "Quality Assurance 4: Sudoku Solver",
   "main": "server.js",
+  "author": "Wittawat Na Ranong<wittawat.naranong@gmail.com>",
   "scripts": {
     "start": "nodemon server.js",
     "test": "mocha --timeout 5000 --require @babel/register --recursive --exit --ui tdd tests/"
